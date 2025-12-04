@@ -82,7 +82,7 @@ def create_latex_document(course_info, students_df, course_code):
         r"",
         r"\begin{document}",
         r"\begin{center}",
-        r"\Large\textbf{Ramakrishna Mission Vivekananda Educational and Research Institute}\\",
+        r"\Large\textbf{ABC University}\\",
         rf"\large Programme: {program}\\",
         rf"\large Course Name: {course_name} ({course_info['Course_Code']})\\",
         rf"\large Instructor: {instructor}",
