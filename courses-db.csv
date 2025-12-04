@@ -1,0 +1,8 @@
+Course_Code,Course_Name,Instructor,Exam_type,Exam_Date,Semester,Session
+CS101,Large Language Models,Prof Alice Jonhson,End-term,20-12-2025,3,July - Dec 2025
+CS102,AI Agents \& RAG,Prof Bob Bolt,End-term,21-12-2025,3,July - Dec 2025
+CS103,Cloud-Native Systems,Prof James S,End-term,22-12-2025,3,July - Dec 2025
+CS104,Quantum Computing,Prof Mike Rowe,End-term,23-12-2025,3,July - Dec 2025
+CS105,Modern Full-Stack Dev,Prof Michale H,End-term,24-12-2025,3,July - Dec 2025
+CS106,Zero-Trust Security,Prof John Doe,End-term,25-12-2025,3,July - Dec 2025
+CS107,MLOps at Scale,Prof Andrew Ng,End-term,26-12-2025,3,July - Dec 2025
