@@ -155,7 +155,7 @@ def main():
     os.makedirs(output_dir, exist_ok=True)
     
     print("=" * 60)
-    print("RKMVERI - Answer Script Register Generator")
+    print("ABC University - Answer Script Register Generator")
     print("=" * 60)
     print(f"Found {len(courses_df)} courses")
     print(f"Found {len(students_df)} students")
